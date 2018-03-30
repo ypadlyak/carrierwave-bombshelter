@@ -1,0 +1,5 @@
+nb:
+  errors:
+    messages:
+      pixel_dimensions_error: "Bildet må være mindre eller lik %{x_size}x%{y_size}"
+      unsupported_image_type: "Filtype støttes ikke"
